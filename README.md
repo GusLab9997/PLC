@@ -1,2 +1,1 @@
  💻 **Languages** : Ladder
-Mitsubishi, Omron
